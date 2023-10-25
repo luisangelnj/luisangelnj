@@ -9,15 +9,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,express,nodejs,sequelize,html,css,mysql,postgres,postman,git,bootstrap,cs,github&theme=dark)](https://skills.thijs.gg)
 
-### Github Stats 📈
-
-| Top Languages                        | Stats                                     |
-| :----------------------------------: | :---------------------------------------: |
-| ![Top Languages](https://github-readme-stats-amber-beta-51.vercel.app/api/top-langs/?username=luisangelnj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | ![Stats](https://github-readme-stats-amber-beta-51.vercel.app/api?username=luisangelnj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
-| Streak                               | Trophy                                    |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisangelnj&theme=vue-dark&hide_border=true) | [![Trophy](https://github-profile-trophy.vercel.app/?username=luisangelnj&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) |
-
-
 
 | Connect with me on Spotify🎵        | :D                                     |
 | :----------------------------------: | :---------------------------------------: |
