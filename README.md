@@ -3,16 +3,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Luis+Núñez....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h1>I am a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/luisangelnj" title="Code">💻</a></h1>
-
+<br>
+<h3>Hello! I'm Luis Ángel Núñez, a passionate web developer. I specialize in using various development tools to build innovative and efficient web applications. My standout skill lies in mastering PHP and JavaScript, utilizing backend development frameworks such as Laravel and NodeJS. <a href="https://github.com/luisangelnj" title="Code">💻</a></h3>
+<br>
+<br>
 
 ### My skills 👍
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,express,nodejs,sequelize,html,css,mysql,postgres,postman,git,bootstrap,cs,github&theme=dark)](https://skills.thijs.gg)
 
-
-
-
+<br>
+<br>
+<br>
 
 | Connect with me on Spotify🎵        | :D                                     |
 | :----------------------------------: | :---------------------------------------: |
