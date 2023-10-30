@@ -10,7 +10,7 @@
 
 ### My skills 👍
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,express,nodejs,sequelize,html,css,mysql,postgres,postman,git,bootstrap,cs,github&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,express,nodejs,sequelize,html,css,mysql,postgres,postman,bootstrap,tailwind,cs,git,github&theme=dark)](https://skills.thijs.gg)
 
 <br>
 <br>
