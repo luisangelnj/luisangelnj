@@ -17,9 +17,7 @@
 | Streak                               | Stats                                     |
 | :----------------------------------: | :---------------------------------------: |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisangelnj&theme=vue-dark&hide_border=true) | ![Stats](https://github-readme-stats-amber-beta-51.vercel.app/api?username=luisangelnj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
-
 | Connect with me on Spotify🎵        | :D                                     |
-| :----------------------------------: | :---------------------------------------: |
 | ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=luisangelnj123) | <img src='https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif' width='250"'> |
 
 ![](https://komarev.com/ghpvc/?username=luisangelnj&color=brightgreen) 
