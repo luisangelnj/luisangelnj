@@ -12,9 +12,11 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,express,nodejs,sequelize,html,css,mysql,postgres,postman,bootstrap,tailwind,cs,git,github&theme=dark)](https://skills.thijs.gg)
 
-<br>
-<br>
-<br>
+### Github Stats 📈
+
+| Streak                               | Stats                                     |
+| :----------------------------------: | :---------------------------------------: |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisangelnj&theme=vue-dark&hide_border=true) | ![Stats](https://github-readme-stats-amber-beta-51.vercel.app/api?username=luisangelnj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
 
 | Connect with me on Spotify🎵        | :D                                     |
 | :----------------------------------: | :---------------------------------------: |
