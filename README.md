@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! 👋</h1>
-<br>
 
 <h2 align="left">About me</h2>
 
@@ -80,4 +79,6 @@ I'm <strong>Luis Ángel Nuñez</strong>, a passionate passionate web developer s
     <img src="https://img.shields.io/static/v1?message=luisangelnj&logo=linkedin&label=Linkedin&color=gray&logoColor=white&labelColor=0077B5&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+<br>
+<br>
 
