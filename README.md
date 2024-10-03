@@ -5,6 +5,9 @@
 I'm <strong>Luis Ángel Nuñez</strong>, a passionate passionate web developer skilled in PHP, C#, and JavaScript, with experience in backend frameworks like Laravel, .NET Core, and ExpressJS, and frontend frameworks like VueJS and Quasar. Constantly seeking challenges to expand my skills, I am dedicated to learning new technologies and staying current with digital trends.
 <br>
 <br>
+🌐 Visit my web portfolio to learn more: <a href="https://luisangelnj.com/" target="_blank">https://www.luisangelnj.com<a/>
+<br>
+<br>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
@@ -77,6 +80,10 @@ I'm <strong>Luis Ángel Nuñez</strong>, a passionate passionate web developer s
 <div align="left">
   <a href="https://www.linkedin.com/in/luisangelnj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=luisangelnj&logo=linkedin&label=Linkedin&color=gray&logoColor=white&labelColor=0077B5&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <br>
+  <a href="https://luisangelnj.com" target="_blank">
+    <img src="https://img.shields.io/badge/  Visit my web portfolio-%233E8E41.svg?style=for-the-badge&logo=webmoney&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
 </div>
 <br>
